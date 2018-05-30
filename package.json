@@ -12,7 +12,7 @@
     "koa": "^2.5.1",
     "koa-body": "^2.5.0",
     "koa-router": "^7.4.0",
-    "yue-helper": "0.0.7",
+    "yue-helper": "0.0.8",
     "yue-service": "0.0.1"
   }
 }
